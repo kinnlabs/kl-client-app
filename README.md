@@ -1,2 +1,1 @@
-# kinn-labs-client-app
-Kinn Labs Client App
+# Kinn Labs Client App
